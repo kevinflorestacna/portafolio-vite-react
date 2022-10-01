@@ -14,6 +14,8 @@ const Proyectos = () => {
                     imgUrl={work.imgUrl}
                     title={work.title}
                     tech={work.tech}
+                    urldemo={work.urldemo}
+                    urlgit={work.urlgit}
                 ></ProyectosItem>
             ))}
         </div>

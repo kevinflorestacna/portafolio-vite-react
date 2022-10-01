@@ -3,7 +3,7 @@ import {BiCoinStack} from 'react-icons/bi'
 export default[
     {
         title: 'FRONTEND',
-        icon: <BiCodeBlock className='w-full h-full'/>,
+        icon: <BiCodeBlock className='w-min h-full'/>,
         descripcion:'Conocimientos en JavaScript, HTML, CSS, React Js'
     },
     {
